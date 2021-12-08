@@ -27,8 +27,8 @@ public class restaurant
         //驅動程式參數
        
         String sDriver  = "com.mysql.jdbc.Driver";
-        String user     = "root";
-        String password = "1234";
+        String user     = "XXXX";
+        String password = "XXXX";
         String url      = "jdbc:mysql://localhost/restaurant";
         String sql; 
         
